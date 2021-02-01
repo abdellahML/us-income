@@ -1,1 +1,1 @@
-"# us-income" 
+# us-income

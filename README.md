@@ -22,10 +22,10 @@ Otherwise, you have only to run the `main.py` file which computes and displays e
 
 
 ### Libraries and environment
-`Requirements.txt`
+`pip install -r requirements.txt`
 
 ### Authors
 
 *Abdellah El Ghibzouri, junior AI developer at BeCode;*  
 
-*Christian Melo, junior AI developer at BeCode*
+*Christian Melot, junior AI developer at BeCode*

@@ -19,8 +19,8 @@ The improvement of the model has been reached by using the GridSearchCV algorith
 ### Usage
 You only have to run the corresponding functions to tune the hyperparameters and measure the perfomances of each model, respectively.
 
-### Requirements.txt
-**NAME OF THE  Requirements.txt**
+### Libraries and environment
+`Requirements.txt`
 
 ### Authors
 

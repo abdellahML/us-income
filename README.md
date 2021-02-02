@@ -17,7 +17,9 @@ The improvement of the model has been reached by using the GridSearchCV algorith
 
 
 ### Usage
-You only have to run the corresponding functions to tune the hyperparameters and measure the perfomances of each model, respectively.
+You can run the corresponding functions to tune the hyperparameters and measure the perfomances of each model, respectively.  
+Otherwise, you have only to run the `main.py` file which computes and displays evrythink.
+
 
 ### Libraries and environment
 `Requirements.txt`

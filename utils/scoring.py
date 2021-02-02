@@ -23,7 +23,7 @@ class Scoring(Baseline):
         }
         self.estimator = RandomForestClassifier(random_state=42)
 
-    def grid_search_scoring_accuracy(self, estimator, params)->GridSearchCV:
+    def grid_search_scoring_accuracy(self, estimator, params) -> GridSearchCV:
         """Initialize an object GridSearchCV
 
         Args:
